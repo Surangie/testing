@@ -1,0 +1,24 @@
+
+
+
+public class MinTest {
+
+
+  public MinTest(){
+  
+    public static void main(string[] args){
+    
+    int tall = 1;
+    
+    system.out.printline(tall);
+    
+    
+    }
+  
+  }
+
+
+
+
+}
+
