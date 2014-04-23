@@ -1,16 +1,15 @@
 
-
 public class MinTest {
 
 
   public MinTest(){
+  int tall = 1;
+  System.out.println(tall);
   }
   
     public static void main(string[] args){
     
-    int tall = 1;
-    
-    system.out.printline(tall);
+      MinTest();
     
     
     
