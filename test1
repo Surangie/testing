@@ -1,10 +1,10 @@
 
 
-
 public class MinTest {
 
 
   public MinTest(){
+  }
   
     public static void main(string[] args){
     
@@ -13,7 +13,7 @@ public class MinTest {
     system.out.printline(tall);
     
     
-    }
+    
   
   }
 
